@@ -25,7 +25,7 @@ To get started with this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/TechNexus.git
+    git clone https://github.com/TRrajputDEV/TechNexus-Tailwind.git
     ```
 
 2. Navigate to the project directory:
@@ -39,7 +39,3 @@ To get started with this project locally:
     ```
 
 Alternatively, you can use any text editor to open and view the code or host it via a local server.
-
-## Project Structure
-
-The project has the following structure:
